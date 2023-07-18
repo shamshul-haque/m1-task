@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+p{
+    font-weight: bold;
+}
+.search, .feedback, .story, .table{
+    margin: 20px 0 10px 10px;
+}
+hr{
+    margin: 10px;
+}
+.search-heading{
+    display: inline;
+}
+.panda{
+    display: block;
+    width: 400px;
+    height: 200px;
+}
+table{
+    border-collapse: collapse;
+}
+th, td{
+    border: 2px solid black;
+    padding: 5px 10px;
+    text-align: center;
+}

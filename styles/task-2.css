@@ -1,0 +1,51 @@
+*{
+    width: 800px;
+}
+.external-css{
+    color: skyblue;
+    background-color: seagreen;
+}
+ul{
+    list-style: none;
+}
+.color{
+    color: red;
+}
+.alignment{
+    text-align: right;
+}
+.font-size{
+    font-size: 50px;
+}
+.font-family{
+    font-family: 'Lato', sans-serif;
+}
+.font-style{
+    font-style: italic;
+}
+.box{
+    color: black;
+    background-color: bisque;
+    border: 2px solid salmon;
+    border-radius: 5px;
+    height: 100px;
+    box-shadow: 10px 10px 5px #aaaaaa; 
+}
+ol{
+    list-style: none;
+}
+.display{
+    padding-top: 30px;
+}
+.display-none{
+    display: none;
+}
+.display-inline{
+    display: inline;
+}
+.display-block{
+    display: block;
+}
+.display-inline-block{
+    display: inline-block;
+}
